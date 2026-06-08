@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Eternal Food",
+        "desc": "A mod that lets you have eternal food by fusing a compatible food item with an eternal diamond.",
+        "img": "https://i.imgur.com/Oy0D5r2.png",
+        "linkmr": "mod/eternalfood",
+        "linkcf": "minecraft/mc-mods/eternalfood"
+    },
+    {
+        "name": "Good Recipes",
+        "desc": "A mod that allows you to have new varied recipes that are not normally included in the game.",
+        "img": "https://i.imgur.com/iiCoQph.png",
+        "linkmr": "mod/goodrecipes",
+        "linkcf": "minecraft/mc-mods/goodrecipes"
+    },
+    {
+        "name": "Panda HUD",
+        "desc": "A texture pack that allows you to have a modified HUD with bamboo and other panda themed stuff.",
+        "img": "https://i.imgur.com/LkPKjbG.png",
+        "linkmr": "resourcepack/pandahud",
+        "linkcf": "minecraft/texture-packs/pandahud"
+    },
+    {
+        "name": "Eternal Tools",
+        "desc": "A mod that lets you have eternal tools by the use of a kit that is embedded in some tools.",
+        "img": "https://i.imgur.com/l9YPh9g.png",
+        "linkmr": "mod/eternaltools",
+        "linkcf": "minecraft/mc-mods/eternaltools"
+    },
+    {
+        "name": "Pig HUD",
+        "desc": "A texture pack that allows you to have a modified HUD with carrot and other pig themed stuff.",
+        "img": "https://i.imgur.com/t2dADTU.png",
+        "linkmr": "resourcepack/pighud",
+        "linkcf": "minecraft/texture-packs/pighud"
+    },
+    {
+        "name": "Eternal Food",
+        "desc": "A hytale mod that lets you have eternal food by fusing a compatible food item in a Eternal Kitchen.",
+        "img": "https://i.imgur.com/6q980vt.png",
+        "linkmr": "",
+        "linkcf": "hytale/mods/eternalfood",
+        "flagmr": "hide"
+    }
+]
